@@ -180,4 +180,9 @@ if (window.location.pathname === '/notes') {
   noteText.addEventListener('keyup', handleRenderSaveBtn);
 }
 
+
+// const fs = require('fs')
+// const writefile = util.promisify(fs.writeFile)
+// const readFile = util.promisify(fs.readFile) 
+
 getAndRenderNotes();
