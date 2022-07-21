@@ -6,7 +6,7 @@ const { v4: uuidv4 } = require('uuid');
 
 // HANDLE GET REQUEST FROM CLIENT GET REQUEST
 
-router.get('/notes', (rew, res) => {
+router.get('/notes', (req, res) => {
   fs.readFile('./db/db.json', 'utf8', (error, data)=> {
     if (error) {
       res.status(500).json('500')

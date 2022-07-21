@@ -3,17 +3,17 @@
 ## Description
 A node.js application that uses user input to create a README.md file. Inquirer is used to capture user input.
 
-![Node Image](/utils/readmeimg.png)
+![Node Image](/public/assets/images%20for%20readme/img.png)
 
 
 ## Deployed Application
-Click [here](https://kaysie04-notetakr.herokuapp.com/) for a demonstration video.
+Click [here](https://kaysie04-notetakr.herokuapp.com/) for deployed link.
 
 ## User Story
 ```
 AS A user, I want to be able to write and save notes.
 I WANT to be able to delete notes I've written before.
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
+SO THAT I can organize my thoughts and keep track of tasks I need to complete.
 ```
 
 ## Technology
